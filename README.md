@@ -16,6 +16,6 @@ Dalam proyek ini dilakukan web scraping hingga pengklasifikasian data menggunaka
 
 ## Kesimpulan 
 
-Algoritma SVM dan logistic regression sama-sama mendapatkan akurasi sebesar 87% 
+Algoritma SVM dan logistic regression sama-sama mendapatkan **akurasi sebesar 87%** 
 
 
