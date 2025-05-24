@@ -53,6 +53,6 @@ jupyter-notebook .
 
 ## Kesimpulan & Saran
 
-Algoritma SVM dan logistic regression sama-sama mendapatkan **akurasi sebesar 87%**. =
+Algoritma SVM dan logistic regression sama-sama mendapatkan **akurasi sebesar 87%**. 
 
 
